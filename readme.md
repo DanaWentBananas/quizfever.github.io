@@ -51,7 +51,7 @@ System for creating, managing and completing tests with free access.
 ```javascript
 {
     title: String,
-    topic: String,
+    category: String,
     questionCount: Number
 }
 ```
