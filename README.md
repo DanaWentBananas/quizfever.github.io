@@ -2,8 +2,6 @@
 
 System for creating, managing and completing tests with free access.
 
-<br>
-
 ## Functionality
 
 -   User registration
@@ -14,15 +12,11 @@ System for creating, managing and completing tests with free access.
 -   Interactive test editor
 -   Fluid UX
 
-<br>
-
 ## Technologies
 
 -   HTML, CSS, Vanilla JavaScript
 -   Lit-html, Page
 -   GitHub Pages, Back4app
-
-<br>
 
 ## Views (Pages)
 
@@ -35,19 +29,11 @@ System for creating, managing and completing tests with free access.
 -   **Profile Page** - information for created and completed tests.
 -   **Quiz Editor** - integrated editor for tests, questions and answers.
 
-<br>
-
 ## Implementation
-
-<br>
 
 ### Data structure
 
-<br>
-
 #### Collections:
-
-<br>
 
 -   Sessions
 -   Users
@@ -90,11 +76,7 @@ System for creating, managing and completing tests with free access.
 }
 ```
 
-<br>
-
 #### Access control
-
-<br>
 
 -   Guests can register, view the catalog, test's details and user profile pages.
 -   Registered users can complete tests, view their results, create and edit tests.
