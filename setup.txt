@@ -11,7 +11,7 @@
 11. Configure public read, authenticated write, NO add field CLP
 12. Test read/write
 13. Configure owner pointer
-14. Adjust data.js to include owner pointer on create { _type: 'Pointer', 'className': '_User', objectId: userId }
+14. Adjust data.js to include owner pointer on create -> { __type: 'Pointer', 'className': '_User', objectId: userId }
 15. Test owner protection
 16. Add query to include owner on GET
 17. Create Question collection, configure CLP, owner pointer, Quiz pointer
