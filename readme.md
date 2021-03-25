@@ -35,10 +35,10 @@ System for creating, managing and completing tests with free access.
 
 #### Collections:
 
+(private values are excluded)
+
 -   Sessions
 -   Users
--   
-(private properties are not included)
 
 ```javascript
 {
